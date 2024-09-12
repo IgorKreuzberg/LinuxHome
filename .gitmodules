@@ -1,0 +1,4 @@
+[submodule "LinuxHome"]
+	path = LinuxHome
+	url = https://github.com/IgorKreuzberg/LinuxHome
+	branch = master
